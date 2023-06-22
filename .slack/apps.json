@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "aareonaccelerate": {
+      "name": "aareonaccelerate",
+      "app_id": "A05DNBSC7FF",
+      "team_id": "T04E2U3J3V5",
+      "IsDev": false,
+      "InstallStatus": 0
+    }
+  },
+  "default": "aareonaccelerate"
+}
